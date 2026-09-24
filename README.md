@@ -1,1 +1,1 @@
-la dernière version du 24/09/2026 prends en compte la version de wine puisque Pronote Client semble attendre spécifiquement la version 10 ce qui pose des problèmes par exemple dans Ubuntu Nobe et les distribution basée sur celle-ci.
+la dernière version du 24/09/2026 prend en compte la version de wine puisque Pronote Client semble attendre spécifiquement la version 10 ce qui pose des problèmes par exemple dans Ubuntu Nobe et les distribution basée sur celle-ci.
