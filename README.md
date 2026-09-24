@@ -10,7 +10,7 @@ Linux Mint 22.x étant  basé sur Noble.
 
     sudo apt install --install-recommends winehq-staging
 
-    rédémarrer wine (wineserver -kdans un terminal) et / ou refaire une instalaltion complète avec le script
+    rédémarrer wine (wineserver -k ou wineboot ou wincfg dans un terminal) et / ou refaire une instalaltion complète avec le script
 
 
     Je modifierais le scrip d'ici peu pour incorporer ce besoin spécifique.
