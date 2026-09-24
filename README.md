@@ -9,3 +9,8 @@ Linux Mint 22.x étant  basé sur Noble.
     sudo wget -NP /etc/apt/sources.list.d/ https://dl.winehq.org/wine-builds/ubuntu/dists/noble/winehq-noble.sources
 
     sudo apt install --install-recommends winehq-staging
+
+    rédémarrer wine (wineserver -kdans un terminal) et / ou refaire une instalaltion complète avec le script
+
+
+    Je modifierais le scrip d'ici peu pour incorporer ce besoin spécifique.
