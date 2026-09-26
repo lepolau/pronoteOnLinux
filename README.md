@@ -1,4 +1,12 @@
 Voici un petit script multi-distributions qui installe le Client Pronote 2026 2.7. Si vous avez déjà Wine d'installer mais que c'est un version inférieure à la 11, le script la mettra à jour automatiquement.
+
+Utilisation : 
+- Dans votre terminal, placez-vous dans le dossier contenant le fichier. 
+- Tapez "sudo bash install_pronote_wine-0.4.sh".
+- Ensuite installer Mono si il vous le demande, et le Client Pronote de préférence dans le répertoire par défaut.
+- A la fin, quand le script aura terminer, il vous suffit de taper :
+  sudo wine "/root/.pronote/drive_c/Program Files/Index Education/Pronote 2026/Réseau/Client/Client PRONOTE.exe" si votre utilisateur est dans sudoers.
+
 Le script est testé sous plusieurs distrib sur un serveur de démonstration (trombinoscope, appel, notes, bulletin...) et le Client fonctionne exactement comme sous Windows
 
 - Linux Mint 22.3 Cinnamon :
