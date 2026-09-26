@@ -1,4 +1,4 @@
-Voici un petit script multi-distributions qui installe le Client Pronote 2026 2.7. Si vous avez déjà Wine d'installer mais que c'est un version inférieure à la 11, le script la mettra à jour automatiquement.
+Voici un petit script multi-distributions qui installe le Client Pronote 2026 2.7. Si vous avez déjà Wine sur votre machine mais que c'est un version inférieure à la 11, le script la mettra à jour automatiquement.
 
 Utilisation : 
 - Dans votre terminal, placez-vous dans le dossier contenant le fichier. 
