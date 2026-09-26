@@ -25,4 +25,5 @@ Le script est testé sous plusieurs distrib sur un serveur de démonstration (tr
 
 
 - ArchLinux en KDE Plasma et Gnome : 
-(Captures d'écran à venir)
+<img width="1680" height="1050" alt="Capture d&#39;écran_20260926_142942" src="https://github.com/user-attachments/assets/d87624d8-0b35-4781-9690-4b23cb8dd14a" />
+
