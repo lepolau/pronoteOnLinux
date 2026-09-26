@@ -1,2 +1,18 @@
-la dernière version du 25/09/2026 prend en compte la version de wine puisque Pronote Client semble attendre spécifiquement la version 10 ce qui pose des problèmes par exemple dans Ubuntu Noble et les distribution basée sur celle-ci.
-Il vous note également la commande à taper dans votre terminal à la fin, pour lancer votre client.
+Voici un petit script multi-distributions qui installe le Client Pronote 2026 2.7. Si vous avez déjà Wine d'installer mais que c'est un version inférieure à la 11, le script la mettra à jour automatiquement.
+Le script est testé sous plusieurs distrib sur un serveur de démonstration (trombinoscope, appel, notes, bulletin...) et le Client fonctionne exactement comme sous Windows
+
+- Linux Mint 22.3 Cinnamon :
+<img width="1680" height="1050" alt="Mint 22 3 - Script 0 4" src="https://github.com/user-attachments/assets/a98dce05-20a2-4ce8-8437-32298658772f" />
+<img width="1680" height="1050" alt="login mint" src="https://github.com/user-attachments/assets/08ef4e8d-7534-4a3f-9ab5-cd649ea53472" />
+<img width="1680" height="1050" alt="Notes Mint" src="https://github.com/user-attachments/assets/b2702a8f-bec8-4f89-87f8-71a728061f8e" />
+<img width="1680" height="1050" alt="Trombinoscope Mint" src="https://github.com/user-attachments/assets/96a5071f-f7ea-4ba2-ac09-a5fa38aaf679" />
+
+- Fedora Linux 44 :
+<img width="1680" height="1050" alt="fedora install" src="https://github.com/user-attachments/assets/491be48f-8bae-4680-97b4-9b5e5397c2c4" />
+<img width="1680" height="1050" alt="appel fedora" src="https://github.com/user-attachments/assets/a0b4a4b3-effc-4368-9e06-3e028aaf1045" />
+
+- Ubuntu 24.04.3 LTS : 
+(Captures d'écran à venir)
+
+- ArchLinux en KDE Plasma et Gnome : 
+(Captures d'écran à venir)
