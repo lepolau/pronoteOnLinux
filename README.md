@@ -20,7 +20,8 @@ Le script est testé sous plusieurs distrib sur un serveur de démonstration (tr
 <img width="1680" height="1050" alt="appel fedora" src="https://github.com/user-attachments/assets/a0b4a4b3-effc-4368-9e06-3e028aaf1045" />
 
 - Ubuntu 24.04.3 LTS : 
-(Captures d'écran à venir)
+<img width="1366" height="768" alt="Capture d’écran du 2026-09-26 16-15-51" src="https://github.com/user-attachments/assets/72795b5e-e0c0-4c99-8817-b754b63937f5" />
+
 
 - ArchLinux en KDE Plasma et Gnome : 
 (Captures d'écran à venir)
