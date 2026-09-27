@@ -36,7 +36,7 @@ sudo wine "/root/.pronote/drive_c/Program Files/Index Education/Pronote 2026/Ré
 
 ## Compatibilité
 
-Le script a été testé sur plusieurs distributions, sur un serveur de démonstration (trombinoscope, appel, notes, bulletin, etc.), et le Client fonctionne **exactement comme sous Windows**.
+Le script a été testé sur plusieurs distributions, sur un serveur de démonstration (trombinoscope, appel, notes, bulletin, etc.), et le client fonctionne **exactement comme sous Windows**.
 
 ### 🟢 Linux Mint 22.3 Cinnamon
 
