@@ -1,6 +1,6 @@
 # 🎓 Client Pronote 2026 sous Linux (via Wine)
 
-Un script d'installation **multi-distributions** permettant d'installer et d'exécuter le **Client Pronote 2026 (v2.7)** sur Linux grâce à Wine.
+Un script d'installation **multi-distributions** permettant d'installer le **Client Pronote 2026 (v2.7)** sur Linux grâce à Wine.
 
 ---
 
