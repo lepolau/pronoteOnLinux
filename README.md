@@ -6,7 +6,7 @@ Un script d'installation **multi-distributions** permettant d'installer le **Cli
 
 ## ⚠️ Attention
 
-Si Wine est déjà installé sur votre machine et que votre distribution est basée sur Ubuntu avec une version **inférieure à la 11**, le script mettra automatiquement Wine à jour.
+Si Wine est déjà installé sur votre machine et que votre distribution est basée sur Ubuntu avec une version **inférieure à la Wine 11**, le script mettra automatiquement Wine à jour.
 
 ---
 
