@@ -26,7 +26,7 @@ Si Wine est déjà installé sur votre machine et que votre distribution est bas
 
 ## Lancer le Client Pronote
 
-Une fois l'installation terminée, lancez le client avec la commande suivante (si votre utilisateur fait partie des `sudoers`) :
+Une fois l'installation terminée, lancez le client avec la commande suivante :
 
 ```bash
 wine "/root/.pronote/drive_c/Program Files/Index Education/Pronote 2026/Réseau/Client/Client PRONOTE.exe"
