@@ -16,7 +16,7 @@ Si Wine est déjà installé sur votre machine et que votre distribution est bas
 2. Lancez l'installation :
 
    ```bash
-   sudo bash install_pronote_wine-0.4.sh
+   bash install_pronote_wine-0.4.sh
    ```
 
 3. Si le script vous le demande, installez **Mono**.
@@ -29,7 +29,7 @@ Si Wine est déjà installé sur votre machine et que votre distribution est bas
 Une fois l'installation terminée, lancez le client avec la commande suivante (si votre utilisateur fait partie des `sudoers`) :
 
 ```bash
-sudo wine "/root/.pronote/drive_c/Program Files/Index Education/Pronote 2026/Réseau/Client/Client PRONOTE.exe"
+wine "/root/.pronote/drive_c/Program Files/Index Education/Pronote 2026/Réseau/Client/Client PRONOTE.exe"
 ```
 
 ---
